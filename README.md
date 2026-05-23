@@ -91,8 +91,6 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 
 * [ytLegends](https://github.com/0adri3n/ytLegends) - A League Of Legends overlay to play YouTube videos in-game.
 
-* [Weered](https://weered.ca) - Lobby and voice-room platform for League communities; pulls summoner profiles, ranked leaderboards, and free rotation via the Riot API.
-
 ## External Apps
 
 * [Clean Cuts](https://blossomishymae.github.io/clean-cuts/) - Provides League of Legends game data in a human-friendly format.
@@ -112,6 +110,8 @@ Join the [Riot Games Third Party Developer Community](https://discordapp.com/inv
 * [LeagueStats](https://leaguestats.gg/) - Website that provides global complete data for all League of Legends summoners.
 
 * [LeagueStreams.gg](https://leaguestreams.gg) - Browse through Live League of Legends Streams with in-Game Informations or watch thousands of VODs by Champion, Lane or even Opponent.
+
+* [Weered](https://weered.ca) - Lobby and voice-room platform for League communities; pulls summoner profiles, ranked leaderboards, and free rotation via the Riot API.
 
 ## Content Creation
 
